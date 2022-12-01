@@ -1,0 +1,5 @@
+/.idea/*
+/temp/*
+/tests.sql
+/tests.sqlite
+*.arrays.xml
